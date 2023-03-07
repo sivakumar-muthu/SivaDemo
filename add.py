@@ -1,2 +1,2 @@
-a=2
-print(a)
+a=200
+print(a*a)
