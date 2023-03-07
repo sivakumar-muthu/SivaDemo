@@ -1,2 +1,2 @@
-a=1500
-print(a)
+a=200
+print(a*a)
